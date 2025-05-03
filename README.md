@@ -138,11 +138,14 @@ Through intuitive visualizations and DAX-powered metrics, this report sheds ligh
 
 This dashboard highlights critical disparities in healthcare facility distribution and emergency readiness across African countries. It equips stakeholders with powerful insights to implement strategic changes that enhance health equity, funding efficiency, and system-wide responsiveness.
 
+### Live Preview 
+[[🔗 Click Here for a walkthrough on my project]](https://app.powerbi.com/groups/me/reports/0f5a0610-f4b9-4c60-89a5-91d877a58852?experience=power-bi)
+
 ---
 
 ## 📬 Contact Me
 
 **Frank Agba Onwuchekwa**  
 📧 Email: Frankgodwin796@gmail.com  
-🔗 LinkedIn: [https://www.linkedin.com/in/frank-agba](https://www.linkedin.com/in/frank-agba)  
+🔗 LinkedIn: [Frank Agba](https://www.linkedin.com/in/frank-agba)  
 💬 WhatsApp: +2349168566449
